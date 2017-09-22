@@ -28,3 +28,7 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+## 使用 vue-cli 脚手架搭建
+集成 vue vue-router vue-cookies
+页面样式使用 light-bootstrap-dashboard
